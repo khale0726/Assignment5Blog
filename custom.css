@@ -1,0 +1,18 @@
+.img-size {
+	width: 400px;
+}
+
+table td {
+	vertical-align: middle;
+}
+.table-size {
+	width: 70% !important;
+}
+
+.padding-left {
+	padding-left: 20%;
+}
+
+.center {
+	padding-left: 32%;
+}
